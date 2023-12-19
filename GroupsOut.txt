@@ -1,288 +1,288 @@
-Team: APOEL
-Group: F
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 0
-Goals Conceded: 1
-
-Team: Ajax
-Group: F
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 1
-Goals Conceded: 3
-
-Team: Anderlecht
-Group: D
-Points: 1
-Wins: 0
-Draws: 1
-Defeats: 0
-Goals Scored: 1
-Goals Conceded: 1
-
-Team: Arsenal
-Group: D
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 0
-Goals Conceded: 2
-
-Team: Athletic_B
-Group: H
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 2
-Goals Conceded: 0
-
-Team: Atletico_M
-Group: A
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 4
-Goals Conceded: 0
-
-Team: BATE
-Group: H
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 0
-Goals Conceded: 2
-
-Team: Barcelona
-Group: F
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 3
-Goals Conceded: 1
-
-Team: Basel
-Group: B
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 1
-Goals Conceded: 5
-
-Team: Bayer_L
-Group: C
-Points: 1
-Wins: 0
-Draws: 1
-Defeats: 0
-Goals Scored: 0
-Goals Conceded: 0
-
-Team: Bayern
-Group: E
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 1
-Goals Conceded: 0
-
-Team: Benfica
-Group: C
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 1
-Goals Conceded: 0
-
-Team: Borussia_D
-Group: D
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 2
-Goals Conceded: 0
-
-Team: CSKA_M
-Group: E
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 1
-Goals Conceded: 5
-
-Team: Chelsea
-Group: G
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 6
-Goals Conceded: 0
-
-Team: Galatasaray
-Group: D
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 0
-Goals Conceded: 4
-
-Team: Juventus
-Group: A
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 2
-Goals Conceded: 0
-
-Team: Liverpool
-Group: B
-Points: 3
-Wins: 1
-Draws: 0
-Defeats: 0
-Goals Scored: 2
-Goals Conceded: 1
-
-Team: Ludogorets
-Group: B
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 0
-Goals Conceded: 4
-
 Team: Malmo
 Group: A
-Points: 0
-Wins: 0
+Points: 3
+Wins: 1
 Draws: 0
-Defeats: 1
-Goals Scored: 0
-Goals Conceded: 2
-
-Team: Manchester_City
-Group: E
-Points: 1
-Wins: 0
-Draws: 1
-Defeats: 0
+Defeats: 4
 Goals Scored: 2
-Goals Conceded: 2
-
-Team: Maribor
-Group: G
-Points: 1
-Wins: 0
-Draws: 1
-Defeats: 0
-Goals Scored: 1
-Goals Conceded: 1
-
-Team: Monaco
-Group: C
-Points: 1
-Wins: 0
-Draws: 1
-Defeats: 0
-Goals Scored: 0
-Goals Conceded: 0
+Goals Conceded: 11
 
 Team: Olympiacos
 Group: A
-Points: 0
-Wins: 0
+Points: 6
+Wins: 2
 Draws: 0
-Defeats: 1
-Goals Scored: 0
+Defeats: 3
+Goals Scored: 6
+Goals Conceded: 11
+
+Team: Juventus
+Group: A
+Points: 9
+Wins: 3
+Draws: 0
+Defeats: 2
+Goals Scored: 7
 Goals Conceded: 4
 
-Team: PSG
-Group: F
-Points: 0
-Wins: 0
+Team: Atletico_M
+Group: A
+Points: 12
+Wins: 4
 Draws: 0
 Defeats: 1
-Goals Scored: 1
+Goals Scored: 14
 Goals Conceded: 3
 
-Team: Porto
-Group: H
-Points: 3
+Team: Liverpool
+Group: B
+Points: 4
 Wins: 1
+Draws: 1
+Defeats: 3
+Goals Scored: 4
+Goals Conceded: 8
+
+Team: Ludogorets
+Group: B
+Points: 4
+Wins: 1
+Draws: 1
+Defeats: 4
+Goals Scored: 5
+Goals Conceded: 14
+
+Team: Basel
+Group: B
+Points: 6
+Wins: 2
 Draws: 0
-Defeats: 0
+Defeats: 2
 Goals Scored: 6
-Goals Conceded: 0
+Goals Conceded: 6
 
 Team: Real_Madrid
 Group: B
-Points: 3
-Wins: 1
+Points: 15
+Wins: 5
 Draws: 0
 Defeats: 0
-Goals Scored: 5
+Goals Scored: 15
+Goals Conceded: 2
+
+Team: Zenit
+Group: C
+Points: 4
+Wins: 1
+Draws: 1
+Defeats: 3
+Goals Scored: 3
+Goals Conceded: 6
+
+Team: Benfica
+Group: C
+Points: 5
+Wins: 1
+Draws: 2
+Defeats: 2
+Goals Scored: 2
+Goals Conceded: 5
+
+Team: Monaco
+Group: C
+Points: 8
+Wins: 2
+Draws: 2
+Defeats: 1
+Goals Scored: 3
 Goals Conceded: 1
+
+Team: Bayer_L
+Group: C
+Points: 10
+Wins: 3
+Draws: 1
+Defeats: 1
+Goals Scored: 7
+Goals Conceded: 3
+
+Team: Galatasaray
+Group: D
+Points: 1
+Wins: 0
+Draws: 1
+Defeats: 3
+Goals Scored: 3
+Goals Conceded: 13
+
+Team: Anderlecht
+Group: D
+Points: 2
+Wins: 0
+Draws: 2
+Defeats: 2
+Goals Scored: 3
+Goals Conceded: 7
+
+Team: Arsenal
+Group: D
+Points: 9
+Wins: 3
+Draws: 0
+Defeats: 1
+Goals Scored: 10
+Goals Conceded: 5
+
+Team: Borussia_D
+Group: D
+Points: 10
+Wins: 3
+Draws: 1
+Defeats: 0
+Goals Scored: 10
+Goals Conceded: 1
+
+Team: CSKA_M
+Group: E
+Points: 1
+Wins: 0
+Draws: 1
+Defeats: 3
+Goals Scored: 3
+Goals Conceded: 11
 
 Team: Roma
 Group: E
 Points: 3
 Wins: 1
 Draws: 0
+Defeats: 2
+Goals Scored: 6
+Goals Conceded: 10
+
+Team: Manchester_City
+Group: E
+Points: 4
+Wins: 1
+Draws: 1
+Defeats: 1
+Goals Scored: 4
+Goals Conceded: 3
+
+Team: Bayern
+Group: E
+Points: 12
+Wins: 4
+Draws: 0
 Defeats: 0
-Goals Scored: 5
+Goals Scored: 12
 Goals Conceded: 1
 
-Team: Schalke_04
-Group: G
+Team: APOEL
+Group: F
 Points: 1
 Wins: 0
 Draws: 1
-Defeats: 0
+Defeats: 3
 Goals Scored: 1
-Goals Conceded: 1
+Goals Conceded: 7
 
-Team: Shakhtar_Dn
-Group: H
-Points: 1
-Wins: 0
+Team: Ajax
+Group: F
+Points: 5
+Wins: 1
+Draws: 2
+Defeats: 1
+Goals Scored: 7
+Goals Conceded: 5
+
+Team: PSG
+Group: F
+Points: 7
+Wins: 2
 Draws: 1
-Defeats: 0
-Goals Scored: 1
-Goals Conceded: 1
+Defeats: 1
+Goals Scored: 6
+Goals Conceded: 6
+
+Team: Barcelona
+Group: F
+Points: 9
+Wins: 3
+Draws: 0
+Defeats: 1
+Goals Scored: 9
+Goals Conceded: 5
 
 Team: Sporting_L
 Group: G
-Points: 0
-Wins: 0
-Draws: 0
-Defeats: 1
-Goals Scored: 1
-Goals Conceded: 3
-
-Team: Zenit
-Group: C
 Points: 1
 Wins: 0
 Draws: 1
+Defeats: 3
+Goals Scored: 5
+Goals Conceded: 9
+
+Team: Maribor
+Group: G
+Points: 2
+Wins: 0
+Draws: 2
+Defeats: 2
+Goals Scored: 2
+Goals Conceded: 9
+
+Team: Schalke_04
+Group: G
+Points: 8
+Wins: 2
+Draws: 2
 Defeats: 0
-Goals Scored: 0
-Goals Conceded: 0
+Goals Scored: 7
+Goals Conceded: 5
+
+Team: Chelsea
+Group: G
+Points: 10
+Wins: 3
+Draws: 1
+Defeats: 0
+Goals Scored: 11
+Goals Conceded: 2
+
+Team: BATE
+Group: H
+Points: 3
+Wins: 1
+Draws: 0
+Defeats: 3
+Goals Scored: 2
+Goals Conceded: 16
+
+Team: Athletic_B
+Group: H
+Points: 4
+Wins: 1
+Draws: 1
+Defeats: 2
+Goals Scored: 4
+Goals Conceded: 4
+
+Team: Shakhtar_Dn
+Group: H
+Points: 6
+Wins: 1
+Draws: 3
+Defeats: 0
+Goals Scored: 10
+Goals Conceded: 3
+
+Team: Porto
+Group: H
+Points: 8
+Wins: 2
+Draws: 2
+Defeats: 0
+Goals Scored: 11
+Goals Conceded: 4
 

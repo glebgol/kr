@@ -7,29 +7,6 @@ import java.util.List;
 import java.util.Set;
 
 public class FileParser {
-    public Set<Team> parseTeamsFromFile(String inputGamesFile) {
-        Set<Team> teams = new HashSet<>();
-
-        try (BufferedReader br = new BufferedReader(new FileReader(inputGamesFile))) {
-            String line;
-            while ((line = br.readLine()) != null) {
-                String[] parts = line.split(" ");
-                if (parts.length == 3) {
-                    String team1Name = parts[0];
-                    String team2Name = parts[2];
-
-                    Team team1 = new Team(team1Name);
-                    Team team2 = new Team(team2Name);
-
-                    teams.add(team1);
-                    teams.add(team2);
-                }
-            }
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-        return teams;
-    }
     public Set<Game> parseGamesFromFile(String inputGamesFile) {
         Set<Game> games = new HashSet<>();
         try (BufferedReader br = new BufferedReader(new FileReader(inputGamesFile))) {
@@ -93,7 +70,6 @@ public class FileParser {
                         String teamName = parts[i];
                         Team team = new Team(teamName);
 
-                        System.out.println(team.getName());
                         Team t = teams1.stream()
                                 .filter(team1 -> team1.getName().equals(team.getName()))
                                 .findFirst().get();
@@ -125,11 +101,35 @@ public class FileParser {
         Team team1 = new Team(team1Name);
         Team team2 = new Team(team2Name);
 
+
         Game game = new Game();
-        game.setTeam1(team1);
-        game.setTeam2(team2);
+
         game.setGoalsScored1(goalsScored1);
         game.setGoalsScored2(goalsScored2);
+
+        team1.setGoalsScored(game.getGoalsScored1());
+        team1.setGoalsConceded(game.getGoalsScored2());
+
+        team2.setGoalsScored(game.getGoalsScored2());
+        team2.setGoalsConceded(game.getGoalsScored1());
+
+        if (game.getGoalsScored1() > game.getGoalsScored2()) {
+            team1.setWinsCount(1);
+            team1.setPoints(3);
+            team2.setDefeatsCount(1);
+        } else if (game.getGoalsScored1() < game.getGoalsScored2()) {
+            team2.setWinsCount(1);
+            team2.setPoints(3);
+            team1.setDefeatsCount(1);
+        } else {
+            team1.setDrawsCount(1);
+            team2.setDrawsCount(1);
+            team1.setPoints(1);
+            team2.setPoints(1);
+        }
+
+        game.setTeam1(team1);
+        game.setTeam2(team2);
         return game;
     }
 }

@@ -1,0 +1,128 @@
+Team: Real_Madrid
+Points: 15
+Number of games: 5
+
+Team: Atletico_M
+Points: 12
+Number of games: 5
+
+Team: Bayern
+Points: 12
+Number of games: 4
+
+Team: Bayer_L
+Points: 10
+Number of games: 5
+
+Team: Borussia_D
+Points: 10
+Number of games: 4
+
+Team: Chelsea
+Points: 10
+Number of games: 4
+
+Team: Juventus
+Points: 9
+Number of games: 5
+
+Team: Barcelona
+Points: 9
+Number of games: 4
+
+Team: Arsenal
+Points: 9
+Number of games: 4
+
+Team: Monaco
+Points: 8
+Number of games: 5
+
+Team: Porto
+Points: 8
+Number of games: 4
+
+Team: Schalke_04
+Points: 8
+Number of games: 4
+
+Team: PSG
+Points: 7
+Number of games: 4
+
+Team: Olympiacos
+Points: 6
+Number of games: 5
+
+Team: Shakhtar_Dn
+Points: 6
+Number of games: 4
+
+Team: Basel
+Points: 6
+Number of games: 4
+
+Team: Benfica
+Points: 5
+Number of games: 5
+
+Team: Ajax
+Points: 5
+Number of games: 4
+
+Team: Ludogorets
+Points: 4
+Number of games: 6
+
+Team: Liverpool
+Points: 4
+Number of games: 5
+
+Team: Zenit
+Points: 4
+Number of games: 5
+
+Team: Athletic_B
+Points: 4
+Number of games: 4
+
+Team: Manchester_City
+Points: 4
+Number of games: 3
+
+Team: Malmo
+Points: 3
+Number of games: 5
+
+Team: BATE
+Points: 3
+Number of games: 4
+
+Team: Roma
+Points: 3
+Number of games: 3
+
+Team: Anderlecht
+Points: 2
+Number of games: 4
+
+Team: Maribor
+Points: 2
+Number of games: 4
+
+Team: Galatasaray
+Points: 1
+Number of games: 4
+
+Team: Sporting_L
+Points: 1
+Number of games: 4
+
+Team: CSKA_M
+Points: 1
+Number of games: 4
+
+Team: APOEL
+Points: 1
+Number of games: 4
+
